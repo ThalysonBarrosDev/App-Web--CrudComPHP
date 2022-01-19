@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: darkblue;
+}
+
+form {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+
+}
+
+.retorno {
+    color: white;
+    display: block; 
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pessoasCadastradas {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    color: white;
+}
+
+.pessoasCadastradas h5 {
+    margin-bottom: 10px;
+}
